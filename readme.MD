@@ -1,6 +1,6 @@
 # YouFood Concept Website
 
-Vanilla HMTL / CSS / Javascript website with Bootstrap hosted on Netlify:
+Vanilla HMTL / CSS / Javascript website with Bootstrap
 
 ## Usage
 
