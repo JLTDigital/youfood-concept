@@ -1,6 +1,6 @@
 # YouFood Concept Website
 
-Vanilla HMTL / CSS / Javascript website with Bootstrap hosted on Netlify:
+Vanilla HMTL / CSS / Javascript website with Bootstrap hosted on Netlify: https://inspiring-franklin-76f378.netlify.app/index.html
 
 ## Usage
 
