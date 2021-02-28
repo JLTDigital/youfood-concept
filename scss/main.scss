@@ -1,0 +1,169 @@
+@import "variables";
+
+$color-one: #8EBF05;
+$color-two: #FBFBFD;
+$color-three: #ffffff;
+
+body {
+  overflow-x: hidden;
+  background: $color-three;
+}
+
+.navbar {
+  background: $color-three;
+  color: #000;
+
+  .navbar-toggler {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: 27px;
+  }
+
+  .logo {
+    width: 15%;
+  }
+
+  .navbar-brand {
+    color: #000;
+  }
+
+  .nav-link {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #000;
+  }
+}
+
+#home-icons {
+  i {
+    color: $color-one;
+  }
+}
+
+#video-play {
+  .fa-play {
+    color: #615CFF;
+  }
+}
+
+#icon-boxes {
+  .icon-boxes-alt {
+    color: $color-one;
+  }
+}
+
+#myCarousel {
+  .carousel-item {
+    height: 450px;
+
+    .company {
+      color: $color-one;
+    }
+  }
+  
+  .carousel-image-1 {
+    background: url(/img/image1.jpg);
+    background-size: cover;
+  }
+  
+  .carousel-image-2 {
+    background: url(/img/image2.jpg);
+    background-size: cover;
+  }
+  
+  .carousel-image-3 {
+    background: url(/img/image3.jpg);
+    background-size: cover;
+    background-position: -300px;
+  }
+}
+
+
+#home-heading {
+  position: relative;
+  min-height: 250px;
+  background: url(/img/deliver.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 -600px;
+  text-align: center;
+  color: #fff;
+}
+
+#video-play {
+  position: relative;
+  min-height: 250px;
+  background: url(/img/media.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 0px;
+  text-align: center;
+  color: #fff;
+
+  .video-play a {
+    color: #fff;
+  }
+}
+
+#page-header {
+  height: 200px;
+  background: url(/img/media.jpg);
+  background-position: 0 -6000px;
+  background-attachment: fixed;
+  color: #000;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+
+#newsletter {
+  background-color: $color-two;
+}
+
+
+// About Us Section
+#about {
+  .about-img {
+    margin-top: -53px;
+  }
+
+  #testimonials {
+    background-color: $color-two;
+  }
+}
+
+// Blog
+#blog {
+  .green {
+    background-color: $color-one;
+  }
+}
+
+
+// Plans section
+.fa-times {
+  color: red;
+}
+
+.fa-check {
+  color: $color-one;
+}
+
+
+#faq {
+  .card {
+    border: #444;
+  }
+}
+
+// Contact
+#staff {
+  background-color: #845ec2;
+}
+
+
+//Footer
+#main-footer {
+  background: $color-one;
+  color: #000;
+}

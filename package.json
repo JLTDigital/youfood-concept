@@ -1,0 +1,17 @@
+{
+  "name": "glozzom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch ./scss/main.scss ./dist/css/main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "devDependencies": {
+    "sass": "^1.32.7"
+  }
+}
