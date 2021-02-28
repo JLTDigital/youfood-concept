@@ -1,6 +1,6 @@
 # YouFood Concept Website
 
-Vanilla HMTL / CSS / Javascript website with Bootstrap
+Vanilla HMTL / CSS / Javascript website with Bootstrap hosted on Netlify: https://optimistic-wilson-edbc0d.netlify.app/
 
 ## Usage
 
